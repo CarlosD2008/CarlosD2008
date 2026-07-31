@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=CarlosD2008&label=Visualizações&color=0e75b6&style=for-the-badge"/>
 </a>
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/carlos-daniel-gualberto-dos-santos-6827a0426/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
