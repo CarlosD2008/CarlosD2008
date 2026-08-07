@@ -1,9 +1,12 @@
 <div align="center">
 
-# 👋 Olá, eu sou Carlos Daniel!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=260&section=header&text=Carlos%20Daniel&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38"/>
 
-### 💻 Desenvolvedor Full Stack em Formação | Estudante de Desenvolvimento de Sistemas (SENAI)
+<br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=CarlosD2008&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
 
 <br>
 
