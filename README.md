@@ -41,7 +41,7 @@
  <tr>
     <td width="60%">
        <p>👋 Olá! Sou o <b>Carlos Daniel</b>, estudante de <b>Desenvolvimento de Sistemas pelo SENAI</b>.</p>
-       <p>🚀 Sou apaixonado por criar soluções que unem <b>tecnologia moderna, inovação e alta performance</b> na experiência do usuário.</p>
+       <p>🚀 Pretendo criar soluções que unem <b>tecnologia moderna, inovação e alta performance</b> na experiência do usuário.</p>
        <p>🎯 Meu foco atual é a evolução constante no ecossistema <b>Full Stack</b>, aplicando boas práticas de Engenharia de Software e arquitetura limpa.</p>
        <p>💼 <b>Objetivo Atual:</b> Busco uma oportunidade de <b>Estágio em Desenvolvimento de Software</b> para agregar valor a projetos reais e acelerar meu aprendizado ao lado de devs experientes!</p>
     </td>
